@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "digtwin"
+  site-url: "https://mldurga.github.io/digtwin"
+  description: "PI Digitaltwin"
+  repo-branch: main
+  repo-url: "https://github.com/mldurga/digtwin"
