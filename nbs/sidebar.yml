@@ -1,0 +1,7 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - apa-pi.ipynb
+      - apo-pi.ipynb
+      - aps-pi.ipynb
